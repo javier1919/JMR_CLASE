@@ -1,0 +1,27 @@
+﻿  texture.cpp
+c:\users\javie\desktop\practica 10\practica #10\proyecto01\texture.cpp(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\javie\desktop\practica 10\practica #10\proyecto01\texture.cpp(48): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\javie\desktop\practica 10\practica #10\proyecto01\texture.cpp(84): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  main_prac10new.cpp
+  figuras.cpp
+c:\users\javie\desktop\practica 10\practica #10\proyecto01\figuras.cpp(20): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\javie\desktop\practica 10\practica #10\proyecto01\figuras.cpp(90): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\javie\desktop\practica 10\practica #10\proyecto01\figuras.cpp(301): warning C4101: 'theta': unreferenced local variable
+c:\users\javie\desktop\practica 10\practica #10\proyecto01\figuras.cpp(301): warning C4101: 'phi': unreferenced local variable
+  Camera.cpp
+  Generating Code...
+CModel.lib(_3dsloader.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'CModel.lib(_3dsloader.obj)' or at 'C:\Users\javie\Desktop\practica 10\practica #10\Debug\vc70.pdb'; linking object as if no debug info
+CModel.lib(CModel.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'CModel.lib(CModel.obj)' or at 'C:\Users\javie\Desktop\practica 10\practica #10\Debug\vc70.pdb'; linking object as if no debug info
+CModel.lib(CObject.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'CModel.lib(CObject.obj)' or at 'C:\Users\javie\Desktop\practica 10\practica #10\Debug\vc70.pdb'; linking object as if no debug info
+CModel.lib(GFILoader.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'CModel.lib(GFILoader.obj)' or at 'C:\Users\javie\Desktop\practica 10\practica #10\Debug\vc70.pdb'; linking object as if no debug info
+CModel.lib(GLRender.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'CModel.lib(GLRender.obj)' or at 'C:\Users\javie\Desktop\practica 10\practica #10\Debug\vc70.pdb'; linking object as if no debug info
+CModel.lib(HandleStream.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'CModel.lib(HandleStream.obj)' or at 'C:\Users\javie\Desktop\practica 10\practica #10\Debug\vc70.pdb'; linking object as if no debug info
+CModel.lib(imageload.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'CModel.lib(imageload.obj)' or at 'C:\Users\javie\Desktop\practica 10\practica #10\Debug\vc70.pdb'; linking object as if no debug info
+CModel.lib(MATRIX4X4.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'CModel.lib(MATRIX4X4.obj)' or at 'C:\Users\javie\Desktop\practica 10\practica #10\Debug\vc70.pdb'; linking object as if no debug info
+CModel.lib(VECTOR3D.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'CModel.lib(VECTOR3D.obj)' or at 'C:\Users\javie\Desktop\practica 10\practica #10\Debug\vc70.pdb'; linking object as if no debug info
+CModel.lib(VECTOR4D.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'CModel.lib(VECTOR4D.obj)' or at 'C:\Users\javie\Desktop\practica 10\practica #10\Debug\vc70.pdb'; linking object as if no debug info
+  proyecto01.vcxproj -> C:\Users\javie\Desktop\practica 10\practica #10\Debug\proyecto01.exe
+  proyecto01.vcxproj -> C:\Users\javie\Desktop\practica 10\practica #10\Debug\proyecto01.pdb (Full PDB)
